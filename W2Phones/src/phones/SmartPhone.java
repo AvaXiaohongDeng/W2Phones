@@ -9,6 +9,7 @@ import java.text.DecimalFormat;
  * A SmartPhone has a name and a price.
  * Students my not edit this file unless translating to C#.
  * @author Liz Dancy, 2021.
+ * 
  *
  */
 public class SmartPhone 

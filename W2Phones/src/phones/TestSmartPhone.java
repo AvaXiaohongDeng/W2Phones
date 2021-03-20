@@ -13,6 +13,7 @@ import org.junit.jupiter.api.TestMethodOrder;
  * There is no bad test for getFormattedPrice() because of no throws 
  * NumberFormatException.
  * 
+ * 
  */
 
 class TestSmartPhone {
